@@ -1,3 +1,9 @@
+# useful skills
+
+- https://github.com/android/skills
+- https://github.com/skydoves/android-skills-mcp
+
+
 # Prompt
 
 ## implementation
